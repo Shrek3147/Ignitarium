@@ -1,2 +1,2 @@
-# Ignitarium-
+# Ignitarium
 Internship Git
